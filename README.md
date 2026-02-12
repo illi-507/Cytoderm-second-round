@@ -1,4 +1,4 @@
-# Example 2: 带防抖输入的单词搜索
+# 带防抖输入的单词搜索
 
 一道 React 编程练习，考察对 **JavaScript 异步编程**、**防抖机制** 和 **React 状态管理** 的理解。
 
@@ -18,10 +18,3 @@
 npm install
 npm run dev
 ```
-
-## 考察技能
-
-- Promise 与异步编程模式
-- 手写防抖实现（不使用第三方库）
-- React Hooks（`useState`、`useEffect`、`useRef`、`useCallback`）
-- 受控组件与条件渲染
